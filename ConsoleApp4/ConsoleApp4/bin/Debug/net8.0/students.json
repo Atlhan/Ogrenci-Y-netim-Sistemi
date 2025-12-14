@@ -1,0 +1,43 @@
+[
+  {
+    "StudentId": 101,
+    "FirstName": "Eren",
+    "LastName": "Demir",
+    "Grades": [
+      {
+        "CourseCode": "MAT101",
+        "Vize": 75,
+        "Final": 85,
+        "Average": 81,
+        "PassStatus": "GE\u00C7T\u0130"
+      },
+      {
+        "CourseCode": "FIZ101",
+        "Vize": 40,
+        "Final": 60,
+        "Average": 52,
+        "PassStatus": "KALDI"
+      }
+    ]
+  },
+  {
+    "StudentId": 102,
+    "FirstName": "Selin",
+    "LastName": "Ayd\u0131n",
+    "Grades": [
+      {
+        "CourseCode": "MAT101",
+        "Vize": 90,
+        "Final": 90,
+        "Average": 90,
+        "PassStatus": "GE\u00C7T\u0130"
+      }
+    ]
+  },
+  {
+    "StudentId": 103,
+    "FirstName": "Can",
+    "LastName": "Y\u0131ld\u0131z",
+    "Grades": []
+  }
+]
